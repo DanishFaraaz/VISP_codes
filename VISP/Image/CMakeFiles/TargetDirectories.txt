@@ -1,0 +1,3 @@
+/home/danish/Desktop/VISP/Image/CMakeFiles/rebuild_cache.dir
+/home/danish/Desktop/VISP/Image/CMakeFiles/tutorial-viewer.dir
+/home/danish/Desktop/VISP/Image/CMakeFiles/edit_cache.dir
